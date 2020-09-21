@@ -1,0 +1,11 @@
+{
+    "orgName": "eadl-Einstein Analytics Subscriber Company",
+    "edition": "Developer",
+    "features": ["AnalyticsAppEmbedded"],
+    "settings": {
+      "lightningExperienceSettings": {
+        "enableS1DesktopEnabled": true
+      }
+    }
+  }
+  

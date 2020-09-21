@@ -1,0 +1,24 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "morty2.0",
+            "versionName": "ver 1.1",
+            "versionNumber": "1.1.0.NEXT"
+        },
+        {
+            "path": "force-app",
+            "package": "EADLReferenceApp",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "eadl_ra",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "morty2.0": "0Hoxx0000000006CAA",
+        "EADLReferenceApp": "0HoR0000000002bKAA"
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "orgName": "eadl-Einstein Analytics Developer Company",
+  "edition": "Developer",
+  "features": ["DevelopmentWave"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    }
+  }
+}

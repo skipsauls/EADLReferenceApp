@@ -1,0 +1,11 @@
+<aura:component implements="force:appHostable,flexipage:availableForAllPageTypes,flexipage:availableForRecordHome,force:hasRecordId" access="global" >
+
+    <lightning:card>
+        <c:embeddedTemplatedApp templateApiName="eadl_ra__Mortgage_Calculator"
+                                dashboardHeight="1000"
+                                dashboardTemplates="mort_calc_Mortgage_Calculator_tp"
+                                header="Einstein Analytics Studio"
+                                title="Mortgage Calculator"
+                                canManageDataflow="false"/>
+    </lightning:card>
+</aura:component>
